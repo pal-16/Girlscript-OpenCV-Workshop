@@ -1,4 +1,4 @@
-# demojupyter
+Girlscript Summit Open CV sessions
 
 Day 1
 https://colab.research.google.com/drive/1TAs1WKlwRJaUCtfAvCX9vMiaQUZqg8gU#scrollTo=r-Rx8vhDbcPm
